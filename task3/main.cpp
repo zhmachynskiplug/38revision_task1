@@ -16,6 +16,9 @@ int main() {
 	if (is_power_too(number) == 1) {
 		cout << "Great Job! \n Programm works correctly!!!!!!!  \n" ;
 	}
+	else {
+		cout << "Try again! \n :0" << endl;
+	}
 	system("pause");
 
 	return 0;
