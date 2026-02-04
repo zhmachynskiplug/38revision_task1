@@ -31,5 +31,7 @@ int main() {
 
 	cout << result << " likes you got in " << days << " days!" << endl;
 
+	system("pause");
+
 	return 0;
 }

@@ -14,5 +14,7 @@ int main() {
 
     print_odds_descending(N, M);
 
+    system("pause");
+
     return 0;
 }
