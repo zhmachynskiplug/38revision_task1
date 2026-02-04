@@ -2,7 +2,6 @@
 
 void print_odds_descending(int N, int M) {
 
-
     if (M <= N) {
         cout << "Invalid range" << endl;
         return;
