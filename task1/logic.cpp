@@ -6,3 +6,5 @@ int get_likes(int days,int likes_per_day) {
 	
 	return result;
 }
+
+
